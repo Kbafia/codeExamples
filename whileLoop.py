@@ -14,7 +14,7 @@
 #create counter variable for loop
 cnt = 1
 
-#print('Begin Loop')
+print('Begin Loop')
 
 #start for loop
 while cnt <= 40:
