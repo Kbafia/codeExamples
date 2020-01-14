@@ -47,3 +47,50 @@ while cnt <= 40:
 
 #Loop exited  
 print('Loop finished')
+
+########################################
+#RESULTS
+########################################
+
+#Begin Loop                                                                                                                                    
+#1                                                                                                                                             
+#DO                                                                                                                                            
+#RE                                                                                                                                            
+#DO                                                                                                                                            
+#MI                                                                                                                                            
+#DORE                                                                                                                                          
+#7                                                                                                                                             
+#DO                                                                                                                                            
+#RE                                                                                                                                            
+#DOMI                                                                                                                                          
+#11                                                                                                                                            
+#DORE                                                                                                                                          
+#13                                                                                                                                            
+#DO                                                                                                                                            
+#REMI                                                                                                                                          
+#DO                                                                                                                                            
+#17                                                                                                                                            
+#DORE                                                                                                                                          
+#19                                                                                                                                            
+#DOMI                                                                                                                                          
+#RE                                                                                                                                            
+#DO                                                                                                                                            
+#23                                                                                                                                            
+#DORE                                                                                                                                          
+#MI                                                                                                                                            
+#DO                                                                                                                                            
+#RE                                                                                                                                            
+#DO                                                                                                                                            
+#29                                                                                                                                            
+#DOREMI                                                                                                                                        
+#31                                                                                                                                            
+#DO                                                                                                                                            
+#RE                                                                                                                                            
+#DO                                                                                                                                            
+#MI                                                                                                                                            
+#DORE                                                                                                                                          
+#37                                                                                                                                            
+#DO                                                                                                                                            
+#RE                                                                                                                                            
+#DOMI                                                                                                                                          
+#Loop finished    
