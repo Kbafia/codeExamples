@@ -6,4 +6,5 @@ The purpose of the codeExamples repo is to demonstrate previous work that I have
 The goal of sharing these examples is to demonstrate my technical skillset and eagerness to learn new technologies. If you have any qeustions or would like to get in touch with me, please feel free to connect with me on LinkedIn at https://www.linkedin.com/in/kbafia/.
 
 Thanks!
+
 -Konrad
