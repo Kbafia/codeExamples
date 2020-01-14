@@ -13,4 +13,4 @@ these stores more efficient again. The reports were bursted on a weekly basis at
 
 The food savings from these reports was in the millions as many stores significantly decreased their food waste in a short period of time 
 after proper training and adjustments were made at the store. The reports were also cloned for other tracking purposes, such as beverage
-tracking.
+tracking. The reports were also agregated across all 4 grains at the store level, and at the critical item level. Although all reports were built on test data, I have blocked identifying information for security purposes.
