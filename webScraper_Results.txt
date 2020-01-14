@@ -1,0 +1,486 @@
+runfile('C:/Users/Konrad/Desktop/webScraper.py', wdir='C:/Users/Konrad/Desktop')
+Begin loop - Number of records in array 0
+Inner loop - Number of records in array 20
+Inner loop - Number of records in array 40
+Inner loop - Number of records in array 60
+End of while loop - Total records loaded into array 60
+
+Physician Name:  Tahmina Aafreen, MD
+Physician Specialty:  Ob/Gyn
+Practicing Address: 
+1600 Eureka Road
+Roseville, CA 95661
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Sagiv Aaron, MD
+Physician Specialty:  Pediatrics-Hospital Medicine
+Practicing Address: 
+276 International Circle
+San Jose, CA 95119
+Phone:  408-362-4740
+___________________________
+
+Physician Name:  David Seth Aaronson, MD
+Physician Specialty:  Urology
+Practicing Address: 
+3600 Broadway
+Oakland, CA 94611
+Phone:  510-752-1000
+___________________________
+
+Physician Name:  Faith Cheryle Abalos-Merino, MD
+Physician Specialty:  Family Medicine
+Practicing Address: 
+1301 Pinole Valley Road
+Pinole, CA 94564
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Adan Abarca, MD
+Physician Specialty:  Family Medicine
+Practicing Address: 
+1900 Dresden Drive
+Lincoln, CA 95648
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Luba Natalie Abascal, MD
+Physician Specialty:  Internal Medicine
+Practicing Address: 
+1600 Owens Street
+San Francisco, CA 94158
+Phone:  415-833-2200
+___________________________
+
+Physician Name:  Derek Cyrus Abbassi, MD
+Physician Specialty:  Ob/Gyn
+Practicing Address: 
+4501 Sand Creek Road
+Antioch, CA 94531
+Phone:  925-813-3100
+___________________________
+
+Physician Name:  Christopher Munro Abbot, MD
+Physician Specialty:  Vascular Surgery
+Practicing Address: 
+6600 Bruceville Road
+Sacramento, CA 95823
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Laura Holliday Abbott, MD
+Physician Specialty:  Ob/Gyn
+Practicing Address: 
+1515 Newell Avenue
+Walnut Creek, CA 94596
+Phone:  925-295-4070
+___________________________
+
+Physician Name:  Paul-Andre Charles Abboud, MD
+Physician Specialty:  Emergency Medicine
+Practicing Address: 
+275 W Macarthur Blvd
+Oakland, CA 94611
+Phone:  510-752-1000
+___________________________
+
+Physician Name:  Massoud Abdali, MD
+Physician Specialty:  Occupational Medicine
+Practicing Address: 
+4601 Dale Road
+Modesto, CA 95356
+Phone:  209-735-5000
+___________________________
+
+Physician Name:  Dimyana Azer Abdelmalek, MD
+Physician Specialty:  Emergency Medicine
+Practicing Address: 
+1100 Veterans Blvd
+Redwood City, CA 94063
+Phone:  650-299-2000
+___________________________
+
+Physician Name:  Eanas Fayez Abdelwahhab, PA-C
+Physician Specialty:  Physician Assistant
+Practicing Address: 
+275 Hospital Pkway
+San Jose, CA 95119
+Phone:  408-362-4740
+___________________________
+
+Physician Name:  Emily Wong Abdinor, PA-C
+Physician Specialty:  Physician Assistant
+Practicing Address: 
+39400 Paseo Padre Parkway
+Fremont, CA 94538
+Phone:  510-248-3055
+___________________________
+
+Physician Name:  Megan Kaye Abdolrashidi, PsyD
+Physician Specialty:  Psychologist
+Practicing Address: 
+7520 Arroyo Circle
+Gilroy, CA 95020
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Arebu Tahir Abdu, MD
+Physician Specialty:  Neonatology
+Practicing Address: 
+1600 Eureka Road
+Roseville, CA 95661
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Seifedin Habib Abdulkarim, MD
+Physician Specialty:  Hospital Medicine
+Practicing Address: 
+7300 N. Fresno Street
+Fresno, CA 93720
+Phone:  1-800-262-6663 (toll free)
+___________________________
+
+Physician Name:  Rabiatu Abdullah, MD
+Physician Specialty:  Emergency Medicine
+Practicing Address: 
+2500 Merced Street
+San Leandro, CA 94577
+Phone:  N/A
+___________________________
+
+Physician Name:  Rizwana Abdullah, MD
+Physician Specialty:  Hospital Medicine
+Practicing Address: 
+1600 Eureka Road
+Roseville, CA 95661
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Angela Miyuki Abe, OD
+Physician Specialty:  Optometrist
+Practicing Address: 
+4601 Dale Road
+Modesto, CA 95356
+Phone:  209-735-5000
+___________________________
+
+Physician Name:  Earl Taylor Abel, MD
+Physician Specialty:  Physical Med/Rehabilitation
+Practicing Address: 
+6600 Bruceville Road
+Sacramento, CA 95823
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Rosanna Abellar, MD
+Physician Specialty:  Pathology
+Practicing Address: 
+275 W Macarthur Blvd
+Oakland, CA 94611
+Phone:  510-752-1000
+___________________________
+
+Physician Name:  Lauren Rebecca Abelson, PA-C
+Physician Specialty:  Physician Assistant
+Practicing Address: 
+4501 Sand Creek Road
+Antioch, CA 94531
+Phone:  925-813-3100
+___________________________
+
+Physician Name:  Anthony Jude Abene, MD
+Physician Specialty:  Orthopaedic Surgery
+Practicing Address: 
+260 International Circle
+San Jose, CA 95119
+Phone:  408-362-4740
+___________________________
+
+Physician Name:  Jimmark Ventura Abenojar, MD
+Physician Specialty:  Psychiatry: Child/Adolescent
+Practicing Address: 
+1 Quality Drive
+Vacaville, CA 95688
+Phone:  707-624-2600
+___________________________
+
+Physician Name:  Olana Aberra, MD
+Physician Specialty:  Hospital Medicine
+Practicing Address: 
+6600 Bruceville Road
+Sacramento, CA 95823
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Stella Sarang Abhyankar, MD
+Physician Specialty:  Hospital Medicine
+Practicing Address: 
+1150 Veterans Blvd
+Redwood City, CA 94063
+Phone:  650-299-2000
+___________________________
+
+Physician Name:  Ma Irene Dizon Abillar, MD
+Physician Specialty:  Pediatrics
+Practicing Address: 
+7373 West Lane
+Stockton, CA 95210
+Phone:  1-866-957-6672 (toll free)
+___________________________
+
+Physician Name:  Lyn Susan Aborn, MD
+Physician Specialty:  Emergency Medicine
+Practicing Address: 
+1100 Veterans Blvd
+Redwood City, CA 94063
+Phone:  650-299-2000
+___________________________
+
+Physician Name:  Armando Giorgio Abounce, MFT
+Physician Specialty:  Marriage & Family Therapist
+Practicing Address: 
+4141 Geary Blvd
+San Francisco, CA 94118
+Phone:  415-833-2000
+___________________________
+
+Physician Name:  Iype Abraham, MD
+Physician Specialty:  Internal Medicine
+Practicing Address: 
+280 Hospital Pkway
+San Jose, CA 95119
+Phone:  408-362-4740
+___________________________
+
+Physician Name:  Scott Allen Abramson, MD
+Physician Specialty:  Neurology
+Practicing Address: 
+2500 Merced Street
+San Leandro, CA 94577
+Phone:  N/A
+___________________________
+
+Physician Name:  Oren Nissan Abramson, MD
+Physician Specialty:  Pediatric Gastroenterology
+Practicing Address: 
+710 Lawrence Expy
+Santa Clara, CA 95051
+Phone:  N/A
+___________________________
+
+Physician Name:  Vera Britto Abreu, MFT
+Physician Specialty:  Marriage & Family Therapist
+Practicing Address: 
+1660 E Roseville Parkway
+Roseville, CA 95661
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Anel Moises Abreu, DO
+Physician Specialty:  Orthopaedic Surgery
+Practicing Address: 
+4601 Dale Road
+Modesto, CA 95356
+Phone:  209-735-5000
+___________________________
+
+Physician Name:  Adriana Abril, MFT
+Physician Specialty:  Marriage & Family Therapist
+Practicing Address: 
+710 S. Broadway Street
+Walnut Creek, CA 94596
+Phone:  925-295-4070
+___________________________
+
+Physician Name:  Noman Absar, MD
+Physician Specialty:  Critical Care Medicine
+Practicing Address: 
+975 Sereno Drive
+Vallejo, CA 94589
+Phone:  707-651-1025
+___________________________
+
+Physician Name:  Francis R. Abueg, PhD
+Physician Specialty:  Psychologist
+Practicing Address: 
+275 Hospital Pkway
+San Jose, CA 95119
+Phone:  408-362-4740
+___________________________
+
+Physician Name:  Minaleshoa Hailu Abye, MD
+Physician Specialty:  Pediatrics
+Practicing Address: 
+7373 West Lane
+Stockton, CA 95210
+Phone:  1-866-957-6672 (toll free)
+___________________________
+
+Physician Name:  Susana Acevedo, MD
+Physician Specialty:  Pediatrics
+Practicing Address: 
+200 Muir Road
+Martinez, CA 94553
+Phone:  925-372-1999
+___________________________
+
+Physician Name:  Radha Achalu, MD
+Physician Specialty:  Internal Medicine
+Practicing Address: 
+710 Lawrence Expy
+Santa Clara, CA 95051
+Phone:  N/A
+___________________________
+
+Physician Name:  Jayaprada Achanta, MD
+Physician Specialty:  Anesthesiology
+Practicing Address: 
+2500 Merced Street
+San Leandro, CA 94577
+Phone:  N/A
+___________________________
+
+Physician Name:  Malathi Acharya, MD
+Physician Specialty:  Internal Medicine
+Practicing Address: 
+39400 Paseo Padre Parkway
+Fremont, CA 94538
+Phone:  510-248-3055
+___________________________
+
+Physician Name:  Seth Ackuayi, MD
+Physician Specialty:  Hospital Medicine
+Practicing Address: 
+1777 W. Yosemite Ave.
+Manteca, CA 95337
+Phone:  209-825-3700
+___________________________
+
+Physician Name:  Rosalba Maritza Acosta, NP
+Physician Specialty:  Nurse Practitioner
+Practicing Address: 
+111 Smith Ranch Road
+San Rafael, CA 94903
+Phone:  415-444-2940
+___________________________
+
+Physician Name:  Nivia Magdalena Acosta, MD
+Physician Specialty:  Ob/Gyn
+Practicing Address: 
+7601 Stoneridge Drive
+Pleasanton, CA 94588
+Phone:  925-847-5050
+___________________________
+
+Physician Name:  Anthony Michael Acquaviva, MD
+Physician Specialty:  Urology
+Practicing Address: 
+99 Montecillo Road
+San Rafael, CA 94903
+Phone:  415-444-2940
+___________________________
+
+Physician Name:  Rodney Ledesma Acuna, MD
+Physician Specialty:  Family Medicine
+Practicing Address: 
+10725 International Drive
+Rancho Cordova, CA 95670
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Walter Paul Acuna, MD
+Physician Specialty:  Internal Medicine
+Practicing Address: 
+3801 Howe Street
+Oakland, CA 94611
+Phone:  510-752-1000
+___________________________
+
+Physician Name:  Basil W. Adad, MD
+Physician Specialty:  Head and Neck Surgery
+Practicing Address: 
+3100 Dublin Blvd.
+Dublin, CA 94568
+Phone:  N/A
+___________________________
+
+Physician Name:  Gina Marie Adair, MD
+Physician Specialty:  Family Medicine
+Practicing Address: 
+2185 West Grant Line Road
+Tracy, CA 95377
+Phone:  209-839-3300
+___________________________
+
+Physician Name:  Tyson Ray Adams, DO
+Physician Specialty:  Family Medicine
+Practicing Address: 
+1650 Response Road
+Sacramento, CA 95815
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Joseph Daniel Adams, LAC
+Physician Specialty:  Licensed Acupuncturist
+Practicing Address: 
+4141 Geary Blvd
+San Francisco, CA 94118
+Phone:  415-833-2000
+___________________________
+
+Physician Name:  Ryan J. Adams, PsyD
+Physician Specialty:  Psychologist
+Practicing Address: 
+3825 Hopyard Road
+Pleasanton, CA 94588
+Phone:  925-847-5050
+___________________________
+
+Physician Name:  Paula Jean Adams, LCSW
+Physician Specialty:  Clinical Social Worker
+Practicing Address: 
+2155 Iron Point Road
+Folsom, CA 95630
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Eloa Shepherd Adams, MD
+Physician Specialty:  Pediatric Critical Care
+Practicing Address: 
+275 W Macarthur Blvd
+Oakland, CA 94611
+Phone:  510-752-1000
+___________________________
+
+Physician Name:  Brett Lee Adams, MD
+Physician Specialty:  Head and Neck Surgery
+Practicing Address: 
+7300 Wyndham Drive
+Sacramento, CA 95823
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Peter J. Adams, PhD
+Physician Specialty:  Psychologist
+Practicing Address: 
+10725 International Drive
+Rancho Cordova, CA 95670
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
+
+Physician Name:  Jared Lee Adams, PA-C
+Physician Specialty:  Physician Assistant
+Practicing Address: 
+7300 N. Fresno Street
+Fresno, CA 93720
+Phone:  1-800-262-6663 (toll free)
+___________________________
+
+Physician Name:  Scott William Adams, MD
+Physician Specialty:  Pediatric Hematology/Oncology
+Practicing Address: 
+1600 Eureka Road
+Roseville, CA 95661
+Phone:  711 (TTY for the hearing/speech impaired)
+___________________________
