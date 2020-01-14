@@ -1,0 +1,35 @@
+###################################################################################################################
+#Duff Beer has 2 products:
+#1. Duff Regular, $1.50 per bottle
+#2. Duff Light, $2.00 per bottle
+#Moe's Tavern purchases bottles of beer from Duff and sells them to customers for $3.00 per bottle (same price
+#for Regular or Light). Duff Beer will sell Moe up to 3000 bottles per month, and they require Moe to buy 1 bottle
+#of Duff Light for every 2 bottles of Duff Regular. Moe's thirsty customers will buy all the beer that is available.
+#Write the mathematical objective and constraints that maximize Moe's monthly profit from selling Duff Beer.
+#Please do not solve the model or send computer code.
+###################################################################################################################
+
+X = number of Duff Regular
+Y = number of Duff Light
+
+#maximize (P)rofit. Both types of beer sell at $3 so we would make $1.5(X) per Regular beer and only $1(Y) for light.
+	P = 1.5X + Y
+
+#Subject to (limits)
+
+	#Total sales count
+	X + Y <= 3000
+
+	# Must sell 2x Regular beer to light beer
+	Y >= 2X
+
+	#Limits for sale counts > 0 since we can't sell negative cans of Duff
+	X >= 0
+	Y >= 0
+
+###################################################################################################################
+#Other notes:
+#
+#This was my first attempt at linear programming and I believe I answered the question correctly.
+#However, it is possible that I may have missed something so if you have any input, please feel free to share!
+###################################################################################################################
