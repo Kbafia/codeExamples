@@ -1,0 +1,91 @@
+<!--
+Description
+
+
+This is an IFRAME script that renders reviews. Build an HTML page that will render this script.
+State how you will change the height of the widget.
+
+
+<a class="reputation-widget" target="_blank" href="https://widgets.reputation.com/widgets/57fe51f5e4b013a2a7880b31/run?tk=be83114f5ec" data-tk="be83114f5ec" data-widget-id="57fe51f5e4b013a2a7880b31" env="">Reputation Reviews</a>
+<script>!function(d,s,c){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?"http":"https";js=d.createElement(s);js.className=c;js.src=p+"://widgets.reputation.com/src/client/widgets/widgets.js";fjs.parentNode.insertBefore(js,fjs);}(document,"script","reputation-wjs");</script>
+
+
+
+Deliverables:
+
+HTML code that wraps the script and renders a page with 3rd party reviews
+
+Extra Points:
+
+Describe different variables used in this implementation
+-->
+
+<html>
+<header>
+  Reputation Reviews
+</header>
+<body>
+<a class="reputation-widget" target="_blank" href="https://widgets.reputation.com/widgets/57fe51f5e4b013a2a7880b31/run?tk=be83114f5ec" data-tk="be83114f5ec" data-widget-id="57fe51f5e4b013a2a7880b31" env="">Reputation Reviews</a>
+
+<script>
+!function(d,s,c)
+{
+var js,
+fjs=d.getElementsByTagName(s)[0],
+p=/^http:/.test(d.location)?"http":"https";
+js=d.createElement(s);
+js.className=c;
+js.src=p+"://widgets.reputation.com/src/client/widgets/widgets.js";
+fjs.parentNode.insertBefore(js,fjs);
+}
+(document,"script","reputation-wjs");
+</script>
+
+<input id="widthInput" type="number" placeholder="Width (px)">
+<input id="heightInput" type="number" placeholder="Height (px)">
+<button id="changeButton">Change Dimensions</button>
+
+<script>
+document.getElementById('changeButton').addEventListener('click', () => {
+    window.postMessage({
+        id: '57fe51f5e4b013a2a7880b31', parameters: 
+            {
+                   width: document.getElementById('widthInput').value,
+                   height: document.getElementById('heightInput').value,
+                   widthUnits: 'px',
+                   heightUnits: 'px'
+            }
+        }, '*')
+})
+</script>
+</body>
+</html>
+
+
+<!-- 
+Added 2 text boxes and a button which take in text for height/width in pixels (this is a horrible design as you can type whatever you want - just a quick example though)
+I tied a script to the ID's of these new elements to take the inputs and referenced them to the ID of the IFRAME.
+the window.postMessage() drives how we see the referenced element, therefore we can alter how tall/wide the element is "dynamically" by the use of these new fields.
+
+
+<script>
+	[DEFINE FUNCTION]
+!function(d,s,c)
+{
+	[DEFINE VARIABLES]
+var js,
+fjs=d.getElementsByTagName(s)[0], -- d and s are passed in from function call, so fjs = document.getElementsByTagName("script")[0] and return the element value
+p=/^http:/.test(d.location)?"http":"https"; sets p = http/https:/.(location of document)
+
+	[FUNCTION ACTIONS]
+js=d.createElement(s); -- set js = document.createElement("script")
+js.className=c; -- create class name for JS = "reputation-wjs"
+js.src=p+"://widgets.reputation.com/src/client/widgets/widgets.js"; -- create source location for JS = http/https(whatever returns from p instantiation) ://widgets.reputation.com/src/client/widgets/widgets.js
+fjs.parentNode.insertBefore(js,fjs);  -- The Node.insertBefore() method inserts a node before the reference node as a child of a specified parent node. It will insert the new js node before fjs node in the DOM.
+}
+	[Parameter values to be used for calling our function]
+(document,"script","reputation-wjs"); 
+</script>
+
+
+-->
